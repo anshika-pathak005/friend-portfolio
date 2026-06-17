@@ -43,7 +43,7 @@ export default function Contact() {
             05 — Contact
           </span>
           <h2 className="font-display text-3xl md:text-4xl text-[#CCD0CF] mt-2">
-            Let's Connect
+            Let us Connect
           </h2>
           <div className="section-divider mt-4" />
           <p className="mt-4 text-[#9BA8AB] text-sm max-w-lg">
