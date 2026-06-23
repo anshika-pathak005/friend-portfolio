@@ -1,4 +1,4 @@
-# Shivangi Chaurasiya — Portfolio Website
+# Portfolio Website
 
 A professional dark-themed portfolio built with **Next.js 14**, **Tailwind CSS**, and **TypeScript**.
 
